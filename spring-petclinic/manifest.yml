@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: spring-petclinicpkr
-  name: spring-petclinicpkr
+  host: springdemopkr
+  name: springdemopkr
   path: petclinic.war
   domain: mybluemix.net
   instances: 1
